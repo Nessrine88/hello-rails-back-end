@@ -1,4 +1,4 @@
-<h1>Hello Rails React FRONT END  </h1>
+<h1>Hello Rails React backend </h1>
 
 <a name="readme-top"></a>
 
@@ -22,9 +22,9 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Hello Rails React] <a name="about-project"></a>
+# 📖 [Hello Rails React React backend] <a name="about-project"></a>
 
-**[Hello Rails React]**
+**[Hello Rails React React backend]**
 
 This application utilizes Ruby on Rails as the backend and React as the frontend. The exchange of information between the two sides is facilitated through an API. 
 [This is the link of the backend application](https://github.com/Nessrine88/hello-react-front-end)
@@ -170,6 +170,6 @@ I would like to thank Microverse for giving me this project to build
 <!-- LICENSE -->
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
